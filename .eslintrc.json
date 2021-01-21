@@ -31,6 +31,7 @@
     "import/prefer-default-export": "off",
     "react/prop-types": "off",
     "no-unused-expressions": "off",
+    "no-shadow": "warn",
     "react/jsx-props-no-spreading": "off",
     "@typescript-eslint/camelcase": "off",
     "@typescript-eslint/explicit-function-return-type": [
